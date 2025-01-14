@@ -1,0 +1,8 @@
+# Backend exclusions
+/backend/node_modules
+/backend/.env
+
+# Frontend exclusions
+/frontend/node_modules
+/frontend/.next
+/frontend/.env.local
