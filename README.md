@@ -32,19 +32,22 @@ A full-stack geospatial data management application with authentication features
 
 - **Landing Page**
   
-  ![Landing Page](https://github.com/user-attachments/assets/7c488e87-3c80-47de-adcb-5239cf955cd2)
+![Screenshot 2025-01-14 155109](https://github.com/user-attachments/assets/751847f4-d653-486a-a2ba-cb20f0133a73)
+
 
 - **Register Page**
   
-  ![Register Page](https://github.com/user-attachments/assets/47c78f00-4277-4bb5-a79a-28111c82e01e)
+ ![Screenshot 2025-01-14 155502](https://github.com/user-attachments/assets/b7345276-ae2a-4376-b066-949b722a169d)
+
 
 - **Login Page**
-  
-  ![Login Page](https://github.com/user-attachments/assets/47e6ab93-60da-418a-b328-7e21363a928c)
+![Screenshot 2025-01-14 155627](https://github.com/user-attachments/assets/151f047e-88a4-4d19-9cdb-8866bf2ca66d)
+
 
 - **Dashboard Page**
   
-  ![Dashboard Page](https://github.com/user-attachments/assets/b5f84b70-b98e-484d-b48a-8b69eda69a0c)
+![Screenshot 2025-01-14 155956](https://github.com/user-attachments/assets/fc3015b2-cb8a-4bac-a1d3-54c2ed2b0cb5)
+
 
 ---
 
